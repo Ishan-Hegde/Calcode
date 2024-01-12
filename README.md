@@ -1,3 +1,4 @@
-A Calculator app made using HTML5,CSS3,JS.
+A Calculator app made using HTML5, CSS3, JS.
 
-![image](https://github.com/Ishan-Hegde/Calcode/assets/110191499/2ae1edc7-9205-4e71-ac4e-e7ff44b6f83c)
+![image](https://github.com/Ishan-Hegde/Calcode/assets/110191499/f2c4969c-9f1b-450b-a606-c97185275ddc)
+
